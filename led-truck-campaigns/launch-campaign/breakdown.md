@@ -58,8 +58,24 @@ This campaign showcases cutting-edge mobile LED advertising technology through c
 - Reference materials and process documentation
 
 ## Project Links
-- **Final Video**: [Coming Soon - Upload to YouTube/Vimeo]
-- **Process Breakdown**: [Coming Soon - Medium/Personal Blog]
+- **Campaign Videos**: [View Complete Mars Outdoor Video Collection on Vimeo](https://vimeo.com/user/250904971/folder/27382063?isPrivate=false) - 10 professional LED truck advertising videos- **Process Breakdown**: [Coming Soon - Medium/Personal Blog]
+
+- ### Video Collection Highlights
+
+The Vimeo collection features 10 professional campaign videos showcasing diverse LED truck advertising scenarios:
+
+1. **Mobile Billboard Advertising** - Market Your Brand on the Move (0:10)
+2. **3D Holographic Advertising** - Future of Outdoor Marketing (0:08)
+3. **Urban LED Advertising** - Nighttime Brand Dominance (0:08)
+4. **When the City Sleeps** - 24/7 Advertising Impact (0:08)
+5. **Rush Hour Advertising** - Capture Commuters in Traffic (0:08)
+6. **Highway Billboard Advertising** - Reach Thousands Daily (0:08)
+7. **Neighborhood Advertising** - Hyperlocal Brand Reach (0:05)
+8. **LED Truck Advertising** - Transform Your Marketing Strategy (0:10)
+9. **Downtown LED Advertising** - Prime Urban Visibility (0:10)
+10. **Mars Outdoor LED Trucks** - Next-Gen Mobile Advertising (0:19)
+
+Each video demonstrates photorealistic 3D renders combined with AI-generated environments, showcasing Mars Outdoor's LED truck solutions in real-world advertising scenarios.
 - **Related Projects**: See [vfx-and-3d-showreel](https://github.com/Avaneesh07/vfx-and-3d-showreel)
 
 ## Skills Demonstrated
